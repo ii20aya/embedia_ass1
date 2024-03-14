@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1710373956 source:c:\users\hd store\desktop\embedia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+	<stdbool.h>
+
